@@ -14,3 +14,7 @@ Discord: NickDiama#9578
 - open terminal on folder
 - cd .\scraper\ 
 - pip install -r requirements.txt
+- python scraper.py
+
+
+> The scraper store the lates tweet_id on the oldest_id.txt file to fetch only newest tweet every run
